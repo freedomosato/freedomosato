@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**freedomosato/freedomosato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Freedom Osato! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a frontend enthusiast will to learn and i'm open to colaborations...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I4G&Zuri GIT week5 task
+This project is to showcase all that were taught on git and github were fully understood and digested.
+
+## Acknowledgements
+ - [zuri team](hppts://training.zuri.team)
+
+## Appendix
+Great thanks to w3schools for a simple and well detailed website
+http://w3schools.com
+
+## 🛠 Skills
+HTML, CSS, GIT and GITHUB...
+
